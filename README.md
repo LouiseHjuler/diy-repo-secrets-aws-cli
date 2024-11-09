@@ -11,3 +11,4 @@ I denne oppgaven skal du lage en GitHub Actions workflow som bruker AWS Command 
   
 ### 4. Bonus 
 - Klarer du å gjøre det slik at  arbeidsflyten kan startes manuelt ved hjelp i GitHub Actions GUI? Spør ChatGPT eller google "workflow_dispatch"  .
+Yes, kjører når committed 
